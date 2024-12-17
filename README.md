@@ -56,13 +56,14 @@
 * Three SQL certificates(Basic, Intermediate and Advanced) on HacerRank!
 * Database Fundamentals, Python Programming Basics From Mahara Tech-ITI Mooca
 
+### 💬 Ask me about:
+
+SQL, Python, Data Analytics, Business intelligence, Microsoft Power BI, Data Visualization, Microsoft SQL Server, (SSIS) SQL Server Integration Services, (SSAS) SQL Server Analysis Services, (SSRS) SQL Server Reporting Service, Snowflake, Data Warehouse (DWH), Extract Transform Load (ETL), Data Science, Microsoft (Excel, PowerPoint, and Access).*/
+
 ### 🌐 Languages:
 
 * Arabic (Native)
 * English
-  
-### 💬 Ask me about:
-/*SQL, Python, Data Analytics, Business intelligence, Microsoft Power BI, Data Visualization, Microsoft SQL Server, (SSIS) SQL Server Integration Services, (SSAS) SQL Server Analysis Services, (SSRS) SQL Server Reporting Service, Snowflake, Databases (development, administration, and tuning performance), Data Warehouse (DWH), Extract Transform Load (ETL), Data Science, Microsoft (Excel, PowerPoint, and Access).*/
 
 <!--
 **Muhammed-Imam/Muhammed-Imam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
