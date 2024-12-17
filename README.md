@@ -9,12 +9,13 @@
 
 ## Technical Skills:
 
-* SQL, Python
-* Data Analytics, Business Intelligence
+* SQL Server
+* Python Programming
+* Data Analytics, Business Intelligence Development
 * Microsoft Power BI, Data Visualization
-* (SSIS) SQL Server Integration Services, (SSAS) SQL Server Analysis Services, (SSRS) SQL Server Reporting Service
 * Data Warehouse (DWH), Extract Transform Load (ETL)
 * Data Science, Data Engineering
+* Data Tools [(SSIS) SQL Server Integration Services, (SSAS) SQL Server Analysis Services, (SSRS) SQL Server Reporting Service]
 * Microsoft Excel, PowerPoint, Access
 
 ## Soft Skills:
