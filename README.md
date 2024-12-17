@@ -13,7 +13,6 @@
 * Data Analytics, Business Intelligence
 * Microsoft Power BI, Data Visualization
 * (SSIS) SQL Server Integration Services, (SSAS) SQL Server Analysis Services, (SSRS) SQL Server Reporting Service
-* Database development, administration, tuning performance
 * Data Warehouse (DWH), Extract Transform Load (ETL)
 * Data Science, Data Engineering
 * Microsoft Excel, PowerPoint, Access
@@ -62,7 +61,7 @@
 * English
   
 ### 💬 Ask me about:
-SQL, Python, Data Analytics, Business intelligence, Microsoft Power BI, Data Visualization, Microsoft SQL Server, (SSIS) SQL Server Integration Services, (SSAS) SQL Server Analysis Services, (SSRS) SQL Server Reporting Service, Snowflake, Databases (development, administration, and tuning performance), Data Warehouse (DWH), Extract Transform Load (ETL), Data Science, Microsoft (Excel, PowerPoint, and Access).
+/*SQL, Python, Data Analytics, Business intelligence, Microsoft Power BI, Data Visualization, Microsoft SQL Server, (SSIS) SQL Server Integration Services, (SSAS) SQL Server Analysis Services, (SSRS) SQL Server Reporting Service, Snowflake, Databases (development, administration, and tuning performance), Data Warehouse (DWH), Extract Transform Load (ETL), Data Science, Microsoft (Excel, PowerPoint, and Access).*/
 
 <!--
 **Muhammed-Imam/Muhammed-Imam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
