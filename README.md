@@ -5,9 +5,9 @@
 * 🔭 I excel in crafting, enhancing, and managing effective data solutions. This includes shaping Databases, Data Warehouses (DWH), and Extract Transform Load (ETL) processes.
 * 💡 My passion lies in architecting robust data systems that drive operational efficiency and strategic decision-making.
 
-####🛠️ Skills:
+### 🛠️ Skills:
 
-###### Technical Skills:
+##### Technical Skills:
 
 * SQL Server (SSMS)
 * Python Programming
@@ -18,7 +18,7 @@
 * Data Tools (SQL Server Integration Services(SSIS), SQL Server Analysis Services(SSAS) and SQL Server Reporting Service(SSRS))
 * Microsoft Excel, PowerPoint, Access
 
-###### Soft Skills:
+##### Soft Skills:
 
 * Strong Analytical and Problem-Solving Skills
 * Capability to work collaboratively with colleagues
@@ -28,7 +28,7 @@
 * Manage multiple projects simultaneously.
 * Positive Attitude and Willingness to Learn
 
-#### 👨‍💻 Experience:
+### 👨‍💻 Experience:
 
 ##### Business Intelligence Consultant(Freelance):
 
