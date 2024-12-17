@@ -1,4 +1,4 @@
-### Hey there! 👋 I'm Muhammed Imam, a Jr. Business Intelligence Developer, Data Analyst, Database Developer, Power BI Developer and Data Scientist based in Egypt.
+### Hey there! 👋 I'm Muhammed Imam, a Jr. Business Intelligence Developer, Data Analyst, Database Developer, based in Egypt.
 
 ### About Me:
 
