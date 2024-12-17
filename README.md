@@ -7,7 +7,7 @@
 
 ### 🛠️ Skills:
 
-## Technical Skills:
+#### Technical Skills:
 
 * SQL Server (SSMS)
 * Python Programming
@@ -18,7 +18,7 @@
 * Data Tools (SQL Server Integration Services(SSIS), SQL Server Analysis Services(SSAS) and SQL Server Reporting Service(SSRS))
 * Microsoft Excel, PowerPoint, Access
 
-## Soft Skills:
+#### Soft Skills:
 
 * Strong Analytical and Problem-Solving Skills
 * Capability to work collaboratively with colleagues
@@ -30,13 +30,13 @@
 
 ### 👨‍💻 Experience:
 
-## Business Intelligence Consultant(Freelance):
+#### Business Intelligence Consultant(Freelance):
 
 * Design and implement robust business intelligence solutions using ETL Tools and Power BI.
 * Create interactive dashboards to analyze performance and extract insights from Data using Power BI and (SSRS) SQL Server Reporting Service.
 * Collaborate with stakeholders to understand and address data-related needs and challenges.
 
-## Data Analyst(Freelance) at Forage:
+#### Data Analyst(Freelance) at Forage:
 
 * Perform data collection, organization, analysis, and visualization to meet business requirements.
 * Develop reports and interactive dashboards for datasets using tools such as Excel, Power BI, and occasionally SQL Server Reporting Services (SSRS).
