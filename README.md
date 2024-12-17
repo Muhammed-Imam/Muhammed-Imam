@@ -67,7 +67,7 @@ margin-top: 10px;
 margin-bottom: 5px;
 padding: 8px;
 overflow:scroll;
-"><code> p = SQL, Python Programming, Data Analytics, Business intelligence, Microsoft Power BI, Data Visualization, Microsoft SQL Server(SSMS), (SSIS) SQL Server Integration Services, (SSAS) SQL Server Analysis Services, (SSRS) SQL Server Reporting Service, Snowflake, Data Warehouse (DWH), Extract Transform Load (ETL), Data Science, Data Mining, Microsoft (Excel, PowerPoint, and Access).</code></pre>
+"><code>SQL, Python Programming, Data Analytics, Business intelligence, Microsoft Power BI, Data Visualization, Microsoft SQL Server(SSMS), (SSIS) SQL Server Integration Services, (SSAS) SQL Server Analysis Services, (SSRS) SQL Server Reporting Service, Snowflake, Data Warehouse (DWH), Extract Transform Load (ETL), Data Science, Data Mining, Microsoft (Excel, PowerPoint, and Access).</code></pre>
 
 ### 🌐 Languages:
 
