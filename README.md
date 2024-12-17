@@ -14,8 +14,8 @@
 * Data Analytics, Business Intelligence Development
 * Microsoft Power BI, Data Visualization
 * Data Warehouse (DWH), Extract Transform Load (ETL)
-* Data Science, Data Engineering
-* Data Tools [(SSIS) SQL Server Integration Services, (SSAS) SQL Server Analysis Services, (SSRS) SQL Server Reporting Service]
+* Data Science, Data Mining
+* Data Tools (SQL Server Integration Services(SSIS), SQL Server Analysis Services(SSAS) and SQL Server Reporting Service(SSRS))
 * Microsoft Excel, PowerPoint, Access
 
 ## Soft Skills:
