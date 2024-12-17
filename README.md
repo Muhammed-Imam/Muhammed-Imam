@@ -59,7 +59,6 @@
 ### 💬 Ask me about:
 
 <pre class="Input" style="
-bacground-color: red;
 font-size: 13px;
 font-weight: bold;
 margin-left: 66px;
