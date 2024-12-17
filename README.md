@@ -3,6 +3,7 @@
 ### About Me:
 
 🔭 I excel in crafting, enhancing, and managing effective data solutions. This includes shaping Databases, Data Warehouses (DWH), and Extract Transform Load (ETL) processes.
+
 💡 My passion lies in architecting robust data systems that drive operational efficiency and strategic decision-making.
 
 ### 🛠️ Skills:
