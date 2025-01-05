@@ -9,7 +9,7 @@
 
 ##### Technical Skills:
 
-* SQL Server (SSMS)
+* SQL (SQL Server)
 * Python Programming
 * Data Analytics, Business Intelligence Development
 * Microsoft Power BI, Data Visualization
